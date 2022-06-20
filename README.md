@@ -21,3 +21,17 @@ Chapter 4: Convolutional neural networks, where you'll learn to apply convolutio
 Chapter 5: A challenge project where you'll apply the previous concepts and simulate a maze environment where the TurtleBot identifies traffic signs.
 
 ![image](https://user-images.githubusercontent.com/20908007/174624357-1a465ef4-cdec-42f9-8bc5-38d41d5eb2e2.png)
+
+
+```
+cd ~/catkin_ws/src/
+git clone https://bitbucket.org/theconstructcore/dlrepo.git
+```
+
+```
+python3 ~/catkin_ws/src/dlrepo/dl_exercises/demo.py
+```
+
+![image](https://user-images.githubusercontent.com/20908007/174624708-21f2355b-d4d3-4b0d-917d-b426401ed01a.png)
+
+
